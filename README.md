@@ -1,6 +1,6 @@
 TinDog Site
 
-This is a simple responsive front end website, made using HTML and CSS.
+This is a simple responsive front end website, made using HTML, CSS, and Bootstrap.
 
 
 ![image](https://user-images.githubusercontent.com/56043146/116801349-c2308a00-ab26-11eb-876e-36612fa53a6e.png)
